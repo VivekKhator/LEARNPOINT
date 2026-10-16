@@ -1,0 +1,17 @@
+title: Data Structures & Algorithms
+shortTitle: DSA
+slug: dsa
+order: 4
+level: Intermediate
+description: >-
+  The small set of data structures and algorithmic ideas that most interview
+  questions and most real performance problems reduce to — with the cost of each
+  operation stated plainly.
+tags: [big o, arrays, hash tables, linked lists, stacks, queues, trees, sorting, recursion]
+prerequisites:
+  - Comfort with one language — the examples are in Python
+  - Loops, functions and basic collections
+outcomes:
+  - Estimate the cost of a loop before running it
+  - Pick between an array, a hash table and a tree for a given access pattern
+  - Recognise the handful of patterns behind most coding-interview questions

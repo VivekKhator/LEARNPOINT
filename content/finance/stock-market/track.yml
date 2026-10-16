@@ -1,0 +1,18 @@
+title: Stock Market Basics
+shortTitle: Stock Market
+slug: stock-market
+order: 1
+level: Beginner
+featured: true
+description: >-
+  How shares, exchanges, orders and valuation actually work — written for someone
+  who has never placed a trade and would like to understand what they are buying
+  before they buy it.
+tags: [shares, exchanges, order types, index funds, valuation, risk, taxes]
+prerequisites:
+  - Arithmetic and a willingness to be told that most trading loses money
+outcomes:
+  - Explain what you own when you own a share
+  - Place an order and know which type you want and why
+  - Read the three numbers that matter on a company page
+  - Recognise the most common ways retail investors lose money

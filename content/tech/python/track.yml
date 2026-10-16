@@ -1,0 +1,19 @@
+title: Python Tutorial
+shortTitle: Python
+slug: python
+order: 1
+level: Beginner
+featured: true
+description: >-
+  Learn Python from the ground up — syntax, data types, control flow, functions,
+  collections and the module system — with runnable examples and no prior
+  programming assumed.
+tags: [syntax, variables, loops, functions, lists, dictionaries, modules, errors]
+prerequisites:
+  - A computer with Python 3.10 or newer installed
+  - Willingness to type the examples rather than read them
+outcomes:
+  - Read and write idiomatic Python for everyday scripting
+  - Choose the right built-in collection for a problem
+  - Structure code into functions and modules instead of one long file
+  - Handle errors deliberately rather than letting the program crash

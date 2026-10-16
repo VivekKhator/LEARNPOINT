@@ -1,0 +1,18 @@
+title: JavaScript Tutorial
+shortTitle: JavaScript
+slug: javascript
+order: 3
+level: Beginner
+featured: true
+description: >-
+  The JavaScript that actually matters in 2026 — values and types, functions and
+  scope, arrays and objects, the DOM, and asynchronous code that does not turn
+  into a nest of callbacks.
+tags: [variables, types, functions, closures, arrays, objects, dom, async, promises]
+prerequisites:
+  - A browser and its developer console — nothing to install
+outcomes:
+  - Explain why `0.1 + 0.2 !== 0.3` and when it matters
+  - Use closures on purpose instead of tripping over them
+  - Manipulate the DOM without a framework
+  - Write async code with promises and async/await, and handle failure

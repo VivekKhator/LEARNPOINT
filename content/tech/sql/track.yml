@@ -1,0 +1,18 @@
+title: SQL Tutorial
+shortTitle: SQL
+slug: sql
+order: 2
+level: Beginner
+featured: true
+description: >-
+  Query relational databases with confidence — SELECT, filtering, joins,
+  aggregation, subqueries and the indexing rules that decide whether a query
+  returns in 2 ms or 2 minutes.
+tags: [select, where, join, group by, aggregate, subquery, index, normalisation]
+prerequisites:
+  - Any SQL database to practise against (SQLite needs no install)
+outcomes:
+  - Write multi-table queries without guessing at join types
+  - Aggregate and filter groups correctly, including the HAVING trap
+  - Read a query plan well enough to know why something is slow
+  - Design a schema that does not need rescuing in six months

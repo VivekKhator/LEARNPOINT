@@ -1,0 +1,16 @@
+title: Personal Finance
+shortTitle: Personal Finance
+slug: personal-finance
+order: 2
+level: Beginner
+description: >-
+  Compounding, debt, emergency funds and asset allocation — the handful of
+  decisions that explain most of the difference in financial outcomes between two
+  people on the same salary.
+tags: [compounding, budgeting, debt, emergency fund, insurance, asset allocation, inflation]
+prerequisites:
+  - An income, or the expectation of one
+outcomes:
+  - Compute what a sum grows to, and what a debt actually costs
+  - Size an emergency fund from your own expenses, not a rule of thumb
+  - Order your financial priorities so the expensive mistakes come first
